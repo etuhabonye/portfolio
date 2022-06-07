@@ -65,8 +65,8 @@
     .item {
       background: #E4E3D3;
       flex-grow: 1;
-      height: 400px;
-      margin: 5px;
+      height: 100%;
+      width: 40%;
       text-size-adjust: auto;
   }
     .item2 {
