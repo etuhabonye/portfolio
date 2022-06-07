@@ -4,7 +4,7 @@
   
   body {
 
-    background-image: url(C:\Users\emmat\Documents\internships\background.JPG);
+    background-image: url("background.JPG");
     min-height: 100%;
     font-family: Helvetica, sans-serif;
   }
