@@ -68,6 +68,7 @@
       height: 100vh;
       width: 40vh;
       position: right;
+      opacity: 20%;
       text-size-adjust: auto;
   }
     .item2 {
