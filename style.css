@@ -64,10 +64,11 @@
   
     .item {
       background: #e2d6c2;
+      position: absolute;
       flex-grow: 1;
       height: 100vh;
       width: 40vh;
-      position: right;
+      right: 0;
       opacity: 20%;
       text-size-adjust: auto;
   }
