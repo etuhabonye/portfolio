@@ -67,9 +67,9 @@
       position: absolute;
       flex-grow: 1;
       height: 100vh;
-      width: 40vh;
+      width: 45vh;
       right: 0;
-      opacity: 20%;
+      opacity: 40%;
       text-size-adjust: auto;
   }
     .item2 {
